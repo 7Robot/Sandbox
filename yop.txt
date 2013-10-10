@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-bloup 7robot
-plop N7
-=======
-bloup 7robot trol
->>>>>>> b8c5cf6f85492724c9e1896b9d56d6b2041e65e3
